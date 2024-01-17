@@ -35,3 +35,13 @@ section#phone {
     width: 448px;
     height: 627px;
 }
+
+iframe#screen {
+    position: relative;
+    top: 37px;
+    left: 72px;
+    border-radius: 12px;
+    width: 302px;
+    height: 535px;
+    
+}
