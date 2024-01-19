@@ -51,17 +51,17 @@ section#icons {
 }
 
 section#icons img {
-    width: 60px;
+    width: 50px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.432);
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.322);
     box-sizing: border-box;
 }
 
 section#icons img:hover {
-    border: 2px solid rgba(94, 121, 241, 0.582);
-    transform: translate(-3% -3%);
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.732);
-    transition: transform .5s, border 2s;
+    border: 2px solid rgba(255, 255, 255, 0.486);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.322);
+    transition: transform .6s, border .5s;
 }
 
