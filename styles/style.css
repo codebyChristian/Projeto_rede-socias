@@ -58,6 +58,8 @@ section#icons img {
     box-sizing: border-box;
 }
 
+
+
 section#icons img:hover {
     border: 2px solid rgba(255, 255, 255, 0.486);
     transform: translate(-3px, -3px);
