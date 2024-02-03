@@ -18,6 +18,11 @@ body {
     background-attachment: fixed;
 }
 
+.bar-lateral{
+    display: block;
+    
+}
+
 main {
     position: relative;
     height: 100vh;
