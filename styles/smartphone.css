@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+html, body {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(49, 8, 87);
+    overflow: hidden;
+}
+
 section#icons img {
     width: 10px;
     margin: 10px;
