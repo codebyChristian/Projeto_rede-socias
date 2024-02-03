@@ -1,9 +1,13 @@
 @charset "UTF-8";
 
 section#icons img {
-    width: 30px;
+    width: 10px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.322);
     box-sizing: border-box;
+}
+
+section#icons {
+    text-align: left;
 }
