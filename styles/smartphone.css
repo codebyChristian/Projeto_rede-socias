@@ -15,3 +15,10 @@ section#icons img {
     box-sizing: border-box;
 }
 
+.bar-lateral{
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: opx;
+    
+}
+
