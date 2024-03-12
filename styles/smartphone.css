@@ -16,7 +16,7 @@ section#icons img {
 }
 
 .bar-lateral{
-    display: flow-root;
+    display: inline-block;
     
     
 }
