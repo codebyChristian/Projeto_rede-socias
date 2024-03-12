@@ -25,4 +25,22 @@ section#icons {
     text-align: left;
 }
 
+section#phone {
+    position: absolute;
+    background: none;
+    background: url(../pacote_projeto/images/frame-phone-mini.png) no-repeat;
 
+
+    width: 448px;
+    height: 552px;
+}
+
+iframe#screen {
+    position: relative;
+    top: 32px;
+    left: 72px;
+    border-radius: 12px;
+    width: 302px;
+    height: 469px;
+    
+}
